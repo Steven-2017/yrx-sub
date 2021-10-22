@@ -41,3 +41,4 @@ if __name__ == '__main__':
     #计算飞机票总数 和平均值 
     average = sum(ticket_lists) / len(ticket_lists)
     print('飞机票的平均值为：',average)
+    print('yuanrenxue ')
